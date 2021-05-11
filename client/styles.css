@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://english.dcnepal.com/wp-content/uploads/2020/11/wp6194569.jpg");
+    
+  }
+  
+  h2 {
+    color: black;
+
+    text-align:center;
+
+  }
+  
+  .form {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  .batting_team {
+    position: relative;
+    font-family: Arial;
+  }
+  .batting_team select {
+    display: none; /*hide original SELECT element: */
+  }
